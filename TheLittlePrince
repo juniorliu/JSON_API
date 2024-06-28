@@ -1,0 +1,27 @@
+{
+	"name": "小王子",
+	"author": "安托萬.德.聖修伯里",
+	"publishYear": "1943",
+	"characters": {
+		"littlePrince":{
+			"planet": "B-612",
+			"favoriteFlowr": "玫瑰花",
+			"friends": ["狐狸", "飛行員"]
+		},
+		"fox": {
+			"quote": "人只要用心去看,才能看到真實。最重要的東西,肉眼是看不見的。"
+			
+		},
+		"rose": {
+			"planet": "B-612"
+		},
+		"pilot": {
+			"relationshipWithPrince": "朋友"
+		}
+	},
+	"themes": ["愛","友誼","孤獨","成長","犧牲"],
+	"quote": {
+		"mostFamous": "人只要用心去看,才能看到真實。最重要的東西,肉眼是看不見的。",
+		"aboutFriendship": "你要與我建立關係,就是你的我需要,就是你對我獨一無二。"
+	}
+}
